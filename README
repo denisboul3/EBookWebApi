@@ -1,0 +1,12 @@
+This is a very basic web api that works with nhibernate
+
+It has very simple functionalities like:
+  Creating a user
+  Creating a book 
+  Modifying a book
+  Deleting a book
+  Adding a price to the book
+  Creating a role
+  Assigning a role to a user
+
+The project isn't finished but the basic idea is ready
